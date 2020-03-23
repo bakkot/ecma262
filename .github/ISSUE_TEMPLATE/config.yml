@@ -1,5 +1,5 @@
 --- 
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links: 
   - 
     about: "Feature requests for future versions of ECMAScript should not be made in this repository. See CONTRIBUTING.md for more details."
